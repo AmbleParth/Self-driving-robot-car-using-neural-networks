@@ -24,3 +24,9 @@ How to execute
  (5)Run the file run.py on raspberry pi and model will start giving predictions.
  
  (6)Test the predictions on pre trained track.
+
+![lateral](https://github.com/AmbleParth/Self-driving-robot-car-using-neural-networks/assets/94055399/0f4bb285-a1af-4120-9947-b5349719769f) 
+Robot
+
+
+
