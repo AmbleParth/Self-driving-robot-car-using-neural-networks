@@ -13,7 +13,7 @@ How to execute
 
  (1)Run the code file DataCollectionMain.py on raspberry pi via SSH on cmd and collect data using a controller or keyboard(both codes provided).
  
- (2)For sample 10 images will be saved. The images are saved in timestamp.jpg format and a corresponding log file is saved which has steering angle associated with  
+ (2)For sample 10 images will be saved. The images are saved in timestamp.jpg format and a corresponding log file is saved which has steering angle associated with 
   each image.
   
  (3)After sufficient data is collected transfer the data to computer using scp command.
